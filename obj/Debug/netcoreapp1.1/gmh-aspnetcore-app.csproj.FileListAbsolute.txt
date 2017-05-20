@@ -1,0 +1,8 @@
+C:\Users\Graeme\gmh-aspnetcore-app\bin\Debug\netcoreapp1.1\gmh-aspnetcore-app.deps.json
+C:\Users\Graeme\gmh-aspnetcore-app\bin\Debug\netcoreapp1.1\gmh-aspnetcore-app.runtimeconfig.json
+C:\Users\Graeme\gmh-aspnetcore-app\bin\Debug\netcoreapp1.1\gmh-aspnetcore-app.runtimeconfig.dev.json
+C:\Users\Graeme\gmh-aspnetcore-app\bin\Debug\netcoreapp1.1\gmh-aspnetcore-app.dll
+C:\Users\Graeme\gmh-aspnetcore-app\bin\Debug\netcoreapp1.1\gmh-aspnetcore-app.pdb
+C:\Users\Graeme\gmh-aspnetcore-app\obj\Debug\netcoreapp1.1\gmh-aspnetcore-app.AssemblyInfo.cs
+C:\Users\Graeme\gmh-aspnetcore-app\obj\Debug\netcoreapp1.1\gmh-aspnetcore-app.dll
+C:\Users\Graeme\gmh-aspnetcore-app\obj\Debug\netcoreapp1.1\gmh-aspnetcore-app.pdb
